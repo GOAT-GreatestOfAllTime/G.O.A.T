@@ -1,4 +1,5 @@
-# 🐐 G.O.A.T AI Core System
+# G.O.A.T AI Core System
+<img width="300" height="300" alt="Screenshot_10" src="https://github.com/user-attachments/assets/3a47394e-03dc-4301-8c1e-a295fcb7386a" />
 
 ## Overview
 
@@ -117,3 +118,4 @@ All operations are logged and auditable. Authentication middleware ensures secur
 **G.O.A.T - Greatest Of All Time**
 
 *Perfection is not reached by adding more, but by removing all that is unnecessary.*
+
